@@ -1,4 +1,6 @@
-NOTE: This is my personal repo; the original repo for this project is private and is owned by Northwestern University
+## NOTE: This is my personal repo, the original repo for this project is private and is owned by Northwestern University
+
+
 GPRL Data Entry Automation
 ===
 
