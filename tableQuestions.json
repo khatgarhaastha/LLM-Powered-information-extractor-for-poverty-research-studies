@@ -1,0 +1,20 @@
+[
+    {"Question": "Number of treatment control comparisons in table"},
+    {"Question": "What is the treatment group label?"},
+    {"Question": "What is the Comparision group Label?"},
+    {"Question": "What is the unit of randomization?", "Option":["Individual","Firm","Household","School","Hospital","Market","Administrative(eg. Neighborhood, District: Specify","Other : Specify"]},
+    {"Question": "Count the number of outcomes mentioned in the table"},
+    {"Question": "For each outcome mentioned in the table, provide a label for the outcome"},
+    {"Question": "How many endlines are mentioned in the table ?"},
+    {"Question": "Is the treatment Effect pooled across multiple countires?"},
+    {"Question": "Name the Non Pooled Treatment effect Countries (if any)"},
+    {"Question": "Name the Pooled Treatment effect Countries (if any)"},
+    {"Question": "What is the unit of analysis in the tables ?"},
+    {"Question": "Is there alwats one to one mapping between units of analysis ?"},
+    {"Question": "What characteristics define the sub groups in the table?", "Option":["Full Sample", "Gender", "Age", "Income", "Education", "Unemployment", "Consumption","Profit","Wealth/Assets/capital","Sales/revenues","Cognitive Skills","Behavioral Skills","Other(No FUll Sample)", "Other (Full Sample Available"]},
+    {"Question": "Define the type of Heterogenous Treatment Effect", "Option": ["Interaction Term", "Split Sample","Quantile Regression", "Not Clear (Specify)"]},
+    {"Question": "How many Sub Groups is the full sample split into based on heterogenous Treatment effect?"},
+    {"Question": "For which groups is a treatment effect reported? Consider the subgroups in the table"},
+    {"Question": "For how many Sub Groups is a treatment effect reported ?"}
+
+]

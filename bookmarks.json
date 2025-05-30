@@ -1,0 +1,88 @@
+[
+    {
+        "SubHeadingName": "Keeping It Simple: Financial Literacy and Rules of Thumb",
+        "SubHeadingStartPage": 1,
+        "SubHeadingEndPage": 44,
+        "SubHeadings": [
+            {
+                "SubHeadingName": "I.\u2002Related Literature and Background",
+                "SubHeadingStartPage": 5,
+                "SubHeadingEndPage": 6
+            },
+            {
+                "SubHeadingName": "II.\u2002Experimental Design",
+                "SubHeadingStartPage": 7,
+                "SubHeadingEndPage": 8
+            },
+            {
+                "SubHeadingName": "III.\u2002Data and Empirical Strategy",
+                "SubHeadingStartPage": 9,
+                "SubHeadingEndPage": 44,
+                "SubHeadings": [
+                    {
+                        "SubHeadingName": "A. Descriptive Statistics",
+                        "SubHeadingStartPage": 9,
+                        "SubHeadingEndPage": 11
+                    },
+                    {
+                        "SubHeadingName": "B. Objective Reporting Measures",
+                        "SubHeadingStartPage": 12,
+                        "SubHeadingEndPage": 11
+                    },
+                    {
+                        "SubHeadingName": "C. Empirical Strategy",
+                        "SubHeadingStartPage": 12,
+                        "SubHeadingEndPage": 44
+                    }
+                ]
+            },
+            {
+                "SubHeadingName": "IV.\u2002Results",
+                "SubHeadingStartPage": 14,
+                "SubHeadingEndPage": 44,
+                "SubHeadings": [
+                    {
+                        "SubHeadingName": "A. Business and Personal Financial Practices and Firm Performance",
+                        "SubHeadingStartPage": 14,
+                        "SubHeadingEndPage": 17
+                    },
+                    {
+                        "SubHeadingName": "B. Heterogeneous Treatment Effects",
+                        "SubHeadingStartPage": 18,
+                        "SubHeadingEndPage": 19
+                    },
+                    {
+                        "SubHeadingName": "C. Differences between Rule-of-Thumb and Standard Accounting Training",
+                        "SubHeadingStartPage": 20,
+                        "SubHeadingEndPage": 20
+                    },
+                    {
+                        "SubHeadingName": "D. Robustness Checks",
+                        "SubHeadingStartPage": 21,
+                        "SubHeadingEndPage": 22
+                    },
+                    {
+                        "SubHeadingName": "E. Spillover Effects",
+                        "SubHeadingStartPage": 23,
+                        "SubHeadingEndPage": 44
+                    }
+                ]
+            },
+            {
+                "SubHeadingName": "V.\u2002Conclusion",
+                "SubHeadingStartPage": 25,
+                "SubHeadingEndPage": 25
+            },
+            {
+                "SubHeadingName": "Appendix: Description of Training Programs",
+                "SubHeadingStartPage": 26,
+                "SubHeadingEndPage": 28
+            },
+            {
+                "SubHeadingName": "REFERENCES",
+                "SubHeadingStartPage": 29,
+                "SubHeadingEndPage": 44
+            }
+        ]
+    }
+]

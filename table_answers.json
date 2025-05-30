@@ -1,0 +1,2319 @@
+[
+    [
+        [
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "Middle East, the majority of women remain out of the labor force.",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "been given to over 4.5 million people inmore than 95 countries world-"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "These facts frame the central question addressed in this paper: Can",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "wide. Using a randomized design, we test whether the impact of train-"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "business training, by itself or combined with a grant, raise the income",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "ing alone differs from that of training coupled with access to capital in"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "of women in self employment?",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "the form of an unrestricted grant. We work with two samples. The"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "In previous experiments in Sri Lanka (de Mel et al., 2008, 2009a,",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "first sample consists of 624 women operating a business and earning"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "2012) and Ghana (Fafchamps et al., 2011) we have found that physical",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "an income of less than $2 per day. The second sample consists of"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "capital alone is not enough to raise the incomes of subsistence-level",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "628 women who were out of the labor force at baseline, but who"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": NaN,
+                "Start-and-Improve Your Business (SIYB) program. This program has": "expressed interest in starting a business within the next year. We"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": NaN,
+                "Start-and-Improve Your Business (SIYB) program. This program has": "refer to the first sample as \u201ccurrent business owners\u201d and the second"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "\u2606 The authors thank the World Bank's Gender Action Plan and Research Support",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "as \u201cpotential business owners.\u201d Each sample is randomized into"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "Budgets for funding for this project, and the CAGE Centre at the University of Warwick",
+                "Start-and-Improve Your Business (SIYB) program. This program has": NaN
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": NaN,
+                "Start-and-Improve Your Business (SIYB) program. This program has": "three groups: a control group, a group invited to attend training,"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "for providing a part of Woodruff's time, Matthew Groh for valuable research assistance,",
+                "Start-and-Improve Your Business (SIYB) program. This program has": NaN
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "and the editor, an anonymous referee, Alan de Brauw and various seminar audiences for",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "and a group invited to receive training and a grant of around $130"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "helpful comments. For logistical support on the project, we thank the Sri Lanka Business",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "conditional on completing training."
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "Development Centre for delivering the training program and especially the Kandy",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "Among the sample of current business owners, we find that training"
+            },
+            {
+                "Kevane and Wydick, 2001). Moreover, in much of South Asia and the": "Consulting Group (Pvt) Ltd for providing exceptional service conducting baseline and",
+                "Start-and-Improve Your Business (SIYB) program. This program has": "alone leads to some changes in business practices, but has no effect on"
+            }
+        ],
+        "Here are the answers to the questions based on the table:\n\n{\n    \"Number of treatment control comparisons in table\": 3,\n    \"What is the treatment group label?\": \"training and a grant\",\n    \"What is the Comparision group Label?\": \"control group\",\n    \"unit of randomization\": \"Administrative (neighborhood, district)\",\n    \"Count the number of outcomes mentioned in the table\": 2,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"income\", \"business practices\"],\n    \"How many endlines are mentioned in the table ?\": 1,\n    \"Is the treatment Effect pooled across multiple countires?\": False,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Sri Lanka\", \"Ghana\"],\n    \"What is the unit of analysis in the tables ?\": \"individuals\",\n    \"Is there alwats one to one mapping between units of analysis ?\": True,\n    \"What characteristics define the sub groups in the table?\": [\"current business owners\", \"potential business owners\"],\n    \"Define the type of Heterogenous Treatment Effect\": \"Split Sample\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"current business owners\", \"potential business owners\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "ever, training does appear to enable more successful businesses to be",
+                "who worked more than 20 h per week in self-employment, were in-": "volved in a sector other than seasonal agriculture or fisheries, and had"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "started, with potential entrants assigned to training having higher",
+                "who worked more than 20 h per week in self-employment, were in-": "monthly profits of 5000 Rs or less (themedian in the general population"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "profits and better management practices two years after completion",
+                "who worked more than 20 h per week in self-employment, were in-": "of female self-employed). We refer to this as our current business owner"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "of training than businesses started by the control group.",
+                "who worked more than 20 h per week in self-employment, were in-": "sample."
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "This study contributes to a growing literature of business training",
+                "who worked more than 20 h per week in self-employment, were in-": "The second group of interest was womenwhowere out of the labor"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "experiments with women (or with men and women) in developing",
+                "who worked more than 20 h per week in self-employment, were in-": "force, but who were likely to start working within the next year. The"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "countries.1 These studies typically involve microfinance clients \u2013 most",
+                "who worked more than 20 h per week in self-employment, were in-": "screening survey asked each female between 25 and 45 years of age"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "of them existing business owners \u2013 whose progress is evaluated by a",
+                "who worked more than 20 h per week in self-employment, were in-": "whether she planned to enter self employment in the next year"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "single follow-up survey measuring outcomes six months to one year",
+                "who worked more than 20 h per week in self-employment, were in-": "and, if so, the nature of the business that she planned to start. As a"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "after training. The stylized finding is that training leads to improve-",
+                "who worked more than 20 h per week in self-employment, were in-": "signal of seriousness of intent, we sampled only women who were"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "ments in business practices, but no detectable effects on profitability",
+                "who worked more than 20 h per week in self-employment, were in-": "able to identify the type of business that they planned to start."
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "or employment. AsMcKenzie andWoodruff (in press) discuss, the com-",
+                "who worked more than 20 h per week in self-employment, were in-": "Since the ability to participate in full-day business training program"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "bination of sample size and sample heterogeneity leaves most of these",
+                "who worked more than 20 h per week in self-employment, were in-": "was important for the proposed intervention, respondents were also"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "studies underpowered. Because we select more homogeneous samples",
+                "who worked more than 20 h per week in self-employment, were in-": "asked about the availability of child care for any children younger"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "of women and conduct four follow-up survey rounds, the study we re-",
+                "who worked more than 20 h per week in self-employment, were in-": "than five years of age. We refer to this as our potential business"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "port here has sufficient power to detect comparatively modest changes",
+                "who worked more than 20 h per week in self-employment, were in-": "owner sample."
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "in profits and sales. Unlike the previous literature, we are also able to",
+                "who worked more than 20 h per week in self-employment, were in-": "Based on this screening exercise,we selected a sample of 628 current"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "look at the impact of training for potential owners, rather than only",
+                "who worked more than 20 h per week in self-employment, were in-": "business owners spread across 137 G.N.s and 628 potential business"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "existing businesses.2 The four survey rounds also enable us to measure",
+                "who worked more than 20 h per week in self-employment, were in-": "owners in 145 G.N.s. This sample was stratified to take approximately"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "the trajectory of impacts, which turns out to be very important in prac-",
+                "who worked more than 20 h per week in self-employment, were in-": "63 of each type in each D.S., in order to have equal sized groups at"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "tice, especially for potential business owners.",
+                "who worked more than 20 h per week in self-employment, were in-": "each training location. A baseline survey of these 1256 individuals was"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "The fact that we find little impact of training on the profitability of",
+                "who worked more than 20 h per week in self-employment, were in-": "conducted in January 2009 (see timeline in Fig. 1.)."
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "existing businesses, even with a representative sample of subsistence",
+                "who worked more than 20 h per week in self-employment, were in-": "Table 1 provides summary statistics on the two subsamples. The"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "enterprise owners and with more power than these other studies sug-",
+                "who worked more than 20 h per week in self-employment, were in-": "current business owner sample consists of women in a wide range of"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "gests that the lack of impacts in most of the existing literature may",
+                "who worked more than 20 h per week in self-employment, were in-": "industries typical of female self-employment in Sri Lanka, such as tea"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "not just be due to power issues, and that as a result business training",
+                "who worked more than 20 h per week in self-employment, were in-": "(snack) shops, beauty shops, bag and mat manufacturing, tailoring"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "programs are less effective for existing enterprises than proponents of",
+                "who worked more than 20 h per week in self-employment, were in-": "and sewing, selling fruit and vegetables or groceries, making and selling"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "such training would suggest. However, our results also suggest some",
+                "who worked more than 20 h per week in self-employment, were in-": "lunch packets and string hoppers, baking cakes, and flower shops. The"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "potential for impacts on new owners.",
+                "who worked more than 20 h per week in self-employment, were in-": "typical owner in our sample is 36, married, with ten years of schooling,"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "The remainder of the paper is structured as follows: Section 2 de-",
+                "who worked more than 20 h per week in self-employment, were in-": "and has been running the business for just over six years.Meanmonthly"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "scribes the sample and randomization procedure; Section 3 the content",
+                "who worked more than 20 h per week in self-employment, were in-": "business income is around 4000 Rs (US$34, or around a dollar a day at"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "of the training and determinants of training take-up; Section 4 provides",
+                "who worked more than 20 h per week in self-employment, were in-": "market exchange rates), and constitutes about one-quarter of total"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "our main results; and Section 5 concludes.",
+                "who worked more than 20 h per week in self-employment, were in-": "household income for the median and mean business owners. At base-"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": NaN,
+                "who worked more than 20 h per week in self-employment, were in-": "line few enterprises were implementing the types of business practices"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "2. Context, the sample and randomization",
+                "who worked more than 20 h per week in self-employment, were in-": "taught in the SIYB training program. Our business practices index"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": NaN,
+                "who worked more than 20 h per week in self-employment, were in-": "measures the marketing, costing and record-keeping, stock control,"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "The urban labor force participation rate for women aged 20 to 40 in",
+                "who worked more than 20 h per week in self-employment, were in-": "and financial planning practices used in the firm, with higher scores in-"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "Sri Lanka was 43% in 2009, compared to rates over 90% for prime-aged",
+                "who worked more than 20 h per week in self-employment, were in-": "dicating better management practices (see Appendix 1). Themean firm"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "men (Department of Census and Statistics, 2010). Twenty-eight percent",
+                "who worked more than 20 h per week in self-employment, were in-": "has a baseline score of only 4.6 out of a possible 29. Only 17% of firms"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "of women in paid work were self-employed, mostly in small and mar-",
+                "who worked more than 20 h per week in self-employment, were in-": "kept written records, only 4% had done any advertising in the last six"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "ginally profitable enterprises. Given this context, our goal was to inves-",
+                "who worked more than 20 h per week in self-employment, were in-": "months, and only 3% had made a budget of what costs are likely to be"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "tigate the effectiveness of business training to increase female labor",
+                "who worked more than 20 h per week in self-employment, were in-": "over the next year. Fewer than 4% of owners had ever taken a training"
+            },
+            {
+                "course, but this entry effect disappears 16 months after training. How-": "force participation rates and to raise the income levels of low-earning",
+                "who worked more than 20 h per week in self-employment, were in-": "course which covered record-keeping, marketing, customer and suppli-"
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 22,\n    \"What is the treatment group label?\": \"business owners\",\n    \"What is the Comparision group Label?\": \"control group\",\n    \"What is the unit of randomization?\": \"Individual\",\n    \"Count the number of outcomes mentioned in the table\": 13,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\n        \"Business income\",\n        \"Labor force participation rate\",\n        \"Self-employment rate\",\n        \"Profitability\",\n        \"Marketing practices\",\n        \"Costing and record-keeping practices\",\n        \"Financial planning practices\",\n        \"Record-keeping practices\",\n        \"Marketing practices\",\n        \"Budgeting practices\",\n        \"Labor force participation rate for women\",\n        \"Business income (mean)\",\n        \"Household income\"\n    ],\n    \"How many endlines are mentioned in the table ?\": 7,\n    \"Is the treatment Effect pooled across multiple countires?\": \"yes\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Sri Lanka\"],\n    \"What is the unit of analysis in the tables ?\": \"business owners\",\n    \"Is there alwats one to one mapping between units of analysis ?\": \"no\",\n    \"What characteristics define the sub groups in the table?\": [\"Gender\", \"Age\", \"Income\", \"Education\", \"Unemployment\", \"Consumption\", \"Profit\", \"Wealth/Assets/capital\", \"Sales/revenues\"],\n    \"Define the type of Heterogenous Treatment Effect\": \"Not Clear (Specify)\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 6,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"business owners\", \"current business owner\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "Jan 2009": NaN,
+                "April": NaN,
+                "Sept": "2009",
+                "Jan": "2010",
+                "Sept.1": "2010",
+                "June": "2011"
+            },
+            {
+                "Jan 2009": "Baseline",
+                "April": "/May",
+                "Sept": NaN,
+                "Jan": NaN,
+                "Sept.1": NaN,
+                "June": NaN
+            },
+            {
+                "Jan 2009": NaN,
+                "April": NaN,
+                "Sept": "Round",
+                "Jan": "Round",
+                "Sept.1": "Round",
+                "June": "Round"
+            },
+            {
+                "Jan 2009": NaN,
+                "April": "2009",
+                "Sept": "2",
+                "Jan": "3",
+                "Sept.1": "4",
+                "June": "5"
+            },
+            {
+                "Jan 2009": NaN,
+                "April": NaN,
+                "Sept": "survey",
+                "Jan": "survey",
+                "Sept.1": "survey",
+                "June": "survey"
+            },
+            {
+                "Jan 2009": NaN,
+                "April": "Training",
+                "Sept": NaN,
+                "Jan": NaN,
+                "Sept.1": NaN,
+                "June": NaN
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 4,\n    \"What is the treatment group label?\": \"Round\",\n    \"What is the Comparision group Label?\": \"Baseline\",\n    \"What is the unit of randomization?\": \"Administrative(eg. Neighborhood, District: Specify)\",\n    \"Count the number of outcomes mentioned in the table\": 1,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Training\"],\n    \"How many endlines are mentioned in the table ?\": 0,\n    \"Is the treatment Effect pooled across multiple countires?\": \"No\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [],\n    \"What is the unit of analysis in the tables ?\": \"Household\",\n    \"Is there alwats one to one mapping between units of analysis ?\": \"Yes\",\n    \"What characteristics define the sub groups in the table?\": \"Survey\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Not Clear (Specify)\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 0,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Round\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 1\n}"
+    ],
+    [
+        [
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "was then stratified by D.S. (10) and by whether or not there were chil-",
+                "sure to some relatively high-return sectors in which it is perceived to": "be socially acceptable for women in Sri Lanka to work. These includ-"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "dren under age 18 without another person to look after themwhile the",
+                "sure to some relatively high-return sectors in which it is perceived to": "ed food manufacturing, beauty culture (hair dressing, beauty treat-"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "mother worked (54%). Within each stratumwe formed triplets of firms",
+                "sure to some relatively high-return sectors in which it is perceived to": "ments and bridal dressing), sewing clothes, plant nursery, and soap"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "on the basis of baseline profits, and randomly allocated two out of three",
+                "sure to some relatively high-return sectors in which it is perceived to": "manufacturing."
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "firms in each triplet to receive training, and one of these two to get a",
+                "sure to some relatively high-return sectors in which it is perceived to": "We contracted the Sri Lanka Business Development Centre (SLBDC),"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "grant conditional on completing training, subject to a quota of 40",
+                "sure to some relatively high-return sectors in which it is perceived to": "a Sri Lankan non-profit training institution, to provide the business"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "5firms per D.S. being chosen to be offered training.",
+                "sure to some relatively high-return sectors in which it is perceived to": "training. SLBDC introduced the SIYB program to the Sri Lankan market"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "For the potential business owners, in addition to D.S., we stratified",
+                "sure to some relatively high-return sectors in which it is perceived to": "in 2001. All of the SLBDC training staff involved in the project were uni-"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "on whether or not they had taken any steps in the past year towards",
+                "sure to some relatively high-return sectors in which it is perceived to": "versity qualified and trained under the national-level SIYB training pro-"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "starting a business (50% said they had), and whether they had ever",
+                "sure to some relatively high-return sectors in which it is perceived to": "grams conducted by the ILO. As such, they are all certified by the SIYB"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "worked before, even if only as an unpaid family worker (18% had not).",
+                "sure to some relatively high-return sectors in which it is perceived to": "Association of Sri Lanka as SIYB Trainers. Each had a minimum of five"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "Within the 38 non-empty stratum we then randomly allocated one-",
+                "sure to some relatively high-return sectors in which it is perceived to": "years experience delivering SIYB training. Therefore, any failure to find"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "third to training only, one-third to training with a grant conditional on",
+                "sure to some relatively high-return sectors in which it is perceived to": "impacts should not be due to low quality trainers or inexperience with"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "completion, and one-third to control, again subject to a quota of 40",
+                "sure to some relatively high-return sectors in which it is perceived to": "the materials."
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "firms per D.S. getting chosen to be offered training. Randomization",
+                "sure to some relatively high-return sectors in which it is perceived to": "The potential owners were offered a package consisting of the"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "was done by the authors by computer, so any differences are due to",
+                "sure to some relatively high-return sectors in which it is perceived to": "GYB and SYB courses, followed by the technical training. The"
+            },
+            {
+                "missing profits or profits above 10,000 Rs. Randomization to treatment": "pure chance. Table 1 shows that randomization succeeded in generating",
+                "sure to some relatively high-return sectors in which it is perceived to": "resulting course was nine days, with 7 h of instruction per day. The"
+            }
+        ],
+        "Here are the answers to the questions:\n\n{\n    \"Number of treatment control comparisons in table\": 3,\n    \"What is the treatment group label?\": \"Training\",\n    \"What is the Comparision group Label?\": \"Control\",\n    \"What is the unit of randomization?\": \"Firm\",\n    \"Count the number of outcomes mentioned in the table\": 2,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Business owners starting a business\", \"Completion of training\"],\n    \"How many endlines are mentioned in the table ?\": Not Available (there is only one line of data),\n    \"Is the treatment Effect pooled across multiple countires?\": No,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": Sri Lanka,\n    \"Name the Pooled Treatment effect Countries (if any)\": None,\n    \"What is the unit of analysis in the tables ?\": Firm\n    \"Is there alwats one to one mapping between units of analysis ?\": No,\n    \"What characteristics define the sub groups in the table?\": Profit,\n    \"Define the type of Heterogenous Treatment Effect\": Split Sample,\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 3,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": All three subgroups,\n    \"For how many Sub Groups is a treatment effect reported ?\": 3\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Current enterprises": "Control Training",
+                "Unnamed: 1": "Training + cash",
+                "Unnamed: 2": "Test of equality",
+                "Potential enterprises": "Control Training",
+                "Unnamed: 3": "Training + cash",
+                "Unnamed: 4": "Test of equality"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Current enterprises": "only",
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": "p-value",
+                "Potential enterprises": "only",
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": "p-value"
+            },
+            {
+                "Unnamed: 0": "Variables stratified on",
+                "Current enterprises": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Total monthly profits (Rs)",
+                "Current enterprises": "3987 3981",
+                "Unnamed: 1": "4001",
+                "Unnamed: 2": "0.995",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Have no children or have someone to look after children",
+                "Current enterprises": "0.55 0.54",
+                "Unnamed: 1": "0.55",
+                "Unnamed: 2": "0.983",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Colombo district",
+                "Current enterprises": "0.20 0.20",
+                "Unnamed: 1": "0.20",
+                "Unnamed: 2": "1.000",
+                "Potential enterprises": "0.19 0.20",
+                "Unnamed: 3": "0.21",
+                "Unnamed: 4": "0.952"
+            },
+            {
+                "Unnamed: 0": "Kandy district",
+                "Current enterprises": "0.21 0.20",
+                "Unnamed: 1": "0.20",
+                "Unnamed: 2": "0.987",
+                "Potential enterprises": "0.20 0.20",
+                "Unnamed: 3": "0.20",
+                "Unnamed: 4": "0.999"
+            },
+            {
+                "Unnamed: 0": "Has taken concrete steps to opening business",
+                "Current enterprises": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Potential enterprises": "0.51 0.50",
+                "Unnamed: 3": "0.51",
+                "Unnamed: 4": "0.976"
+            },
+            {
+                "Unnamed: 0": "Has never worked before",
+                "Current enterprises": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Potential enterprises": "0.18 0.17",
+                "Unnamed: 3": "0.19",
+                "Unnamed: 4": "0.859"
+            },
+            {
+                "Unnamed: 0": "Variables not stratified on",
+                "Current enterprises": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Age",
+                "Current enterprises": "35.94 37.71",
+                "Unnamed: 1": "36.58",
+                "Unnamed: 2": "0.010",
+                "Potential enterprises": "34.38 34.05",
+                "Unnamed: 3": "33.72",
+                "Unnamed: 4": "0.571"
+            },
+            {
+                "Unnamed: 0": "Married",
+                "Current enterprises": "0.89 0.86",
+                "Unnamed: 1": "0.80",
+                "Unnamed: 2": "0.030",
+                "Potential enterprises": "0.84 0.91",
+                "Unnamed: 3": "0.89",
+                "Unnamed: 4": "0.140"
+            },
+            {
+                "Unnamed: 0": "Number of children under 18",
+                "Current enterprises": "1.55 1.47",
+                "Unnamed: 1": "1.40",
+                "Unnamed: 2": "0.287",
+                "Potential enterprises": "1.40 1.47",
+                "Unnamed: 3": "1.59",
+                "Unnamed: 4": "0.164"
+            },
+            {
+                "Unnamed: 0": "Years of education",
+                "Current enterprises": "10.16 10.34",
+                "Unnamed: 1": "10.51",
+                "Unnamed: 2": "0.393",
+                "Potential enterprises": "10.51 10.56",
+                "Unnamed: 3": "10.53",
+                "Unnamed: 4": "0.985"
+            },
+            {
+                "Unnamed: 0": "Risk-seeking score (0 to 10, 10 is highest risk-seeking)",
+                "Current enterprises": "6.81 6.87",
+                "Unnamed: 1": "6.53",
+                "Unnamed: 2": "0.172",
+                "Potential enterprises": "6.73 6.82",
+                "Unnamed: 3": "6.75",
+                "Unnamed: 4": "0.880"
+            },
+            {
+                "Unnamed: 0": "Digitspan recall",
+                "Current enterprises": "6.00 6.04",
+                "Unnamed: 1": "6.01",
+                "Unnamed: 2": "0.955",
+                "Potential enterprises": "6.03 5.93",
+                "Unnamed: 3": "6.06",
+                "Unnamed: 4": "0.542"
+            },
+            {
+                "Unnamed: 0": "Raven test score (out of 12)",
+                "Current enterprises": "2.58 2.75",
+                "Unnamed: 1": "2.68",
+                "Unnamed: 2": "0.652",
+                "Potential enterprises": "2.76 2.59",
+                "Unnamed: 3": "2.81",
+                "Unnamed: 4": "0.465"
+            },
+            {
+                "Unnamed: 0": "Total household income from all sources",
+                "Current enterprises": "17,192 18,245",
+                "Unnamed: 1": "17,595",
+                "Unnamed: 2": "0.486",
+                "Potential enterprises": "16,422 16,690",
+                "Unnamed: 3": "16,393",
+                "Unnamed: 4": "0.956"
+            },
+            {
+                "Unnamed: 0": "Wealth index (principal component)",
+                "Current enterprises": "0.01 0.05",
+                "Unnamed: 1": "0.28",
+                "Unnamed: 2": "0.211",
+                "Potential enterprises": "\u22120.09 \u22120.12",
+                "Unnamed: 3": "\u22120.11",
+                "Unnamed: 4": "0.99"
+            },
+            {
+                "Unnamed: 0": "Household has a fridge",
+                "Current enterprises": "0.45 0.53",
+                "Unnamed: 1": "0.51",
+                "Unnamed: 2": "0.267",
+                "Potential enterprises": "0.39 0.41",
+                "Unnamed: 3": "0.43",
+                "Unnamed: 4": "0.765"
+            },
+            {
+                "Unnamed: 0": "Household has a sewing machine",
+                "Current enterprises": "0.56 0.60",
+                "Unnamed: 1": "0.60",
+                "Unnamed: 2": "0.695",
+                "Potential enterprises": "0.51 0.54",
+                "Unnamed: 3": "0.55",
+                "Unnamed: 4": "0.739"
+            },
+            {
+                "Unnamed: 0": "Household has an oven",
+                "Current enterprises": "0.08 0.08",
+                "Unnamed: 1": "0.12",
+                "Unnamed: 2": "0.381",
+                "Potential enterprises": "0.09 0.05",
+                "Unnamed: 3": "0.08",
+                "Unnamed: 4": "0.196"
+            },
+            {
+                "Unnamed: 0": "Household has a gas cooker",
+                "Current enterprises": "0.25 0.23",
+                "Unnamed: 1": "0.30",
+                "Unnamed: 2": "0.257",
+                "Potential enterprises": "0.28 0.24",
+                "Unnamed: 3": "0.24",
+                "Unnamed: 4": "0.612"
+            },
+            {
+                "Unnamed: 0": "Age of firm (years)",
+                "Current enterprises": "6.47 6.88",
+                "Unnamed: 1": "6.35",
+                "Unnamed: 2": "0.731",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Ever had a loan from financial institution",
+                "Current enterprises": "0.23 0.18",
+                "Unnamed: 1": "0.20",
+                "Unnamed: 2": "0.396",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Total monthly sales (Rs)",
+                "Current enterprises": "12,523 12,485",
+                "Unnamed: 1": "12,640",
+                "Unnamed: 2": "0.990",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Capital stock excluding land and buildings (Rs)",
+                "Current enterprises": "28,649 27,418",
+                "Unnamed: 1": "35,187",
+                "Unnamed: 2": "0.227",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Truncated capital stock (Rs)",
+                "Current enterprises": "28,649 27,418",
+                "Unnamed: 1": "34,997",
+                "Unnamed: 2": "0.234",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Business practices score (max. of 29)",
+                "Current enterprises": "4.59 4.99",
+                "Unnamed: 1": "4.98",
+                "Unnamed: 2": "0.464",
+                "Potential enterprises": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Number of firms",
+                "Current enterprises": "224 200",
+                "Unnamed: 1": "200",
+                "Unnamed: 2": NaN,
+                "Potential enterprises": "228 200",
+                "Unnamed: 3": "200",
+                "Unnamed: 4": NaN
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 7,\n    \"What is the treatment group label?\": \"Control\",\n    \"What is the Comparision group Label?\": \"Training only\",\n    \"What is the unit of randomization?\": \"Administrative(eg. Neighborhood, District: Specify)\",\n    \"Count the number of outcomes mentioned in the table\": 23,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Current enterprises\", \"Total monthly profits (Rs)\", \"Have no children or have someone to look after...\", \"Colombo district\", \"Kandy district\", \"Has taken concrete steps to opening business\", \"Has never worked before\", \"Age\", \"Married\", \"Number of children under 18\", \"Years of education\", \"Risk-seeking score (0 to 10, 10 is highest ris...\", \"Digitspan recall\", \"Raven test score (out of 12)\", \"Total household income from all sources\", \"Wealth index (principal component)\", \"Household has a fridge\", \"Household has a sewing machine\", \"Household has an oven\", \"Household has a gas cooker\", \"Age of firm (years)\", \"Ever had a loan from financial institution\", \"Total monthly sales (Rs)\", \"Capital stock excluding land and buildings (Rs)\", \"Truncated capital stock (Rs)\", \"Business practices score (max. of 29)\", \"Number of firms\"],\n    \"How many endlines are mentioned in the table ?\": 7,\n    \"Is the treatment Effect pooled across multiple countires?\": true,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Colombo district\", \"Kandy district\"],\n    \"What is the unit of analysis in the tables ?\": \"Firm\",\n    \"Is there alwats one to one mapping between units of analysis ?\": true,\n    \"What characteristics define the sub groups in the table?\": \"Administrative(eg. Neighborhood, District: Specify)\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 7,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Training only\", \"Training\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 4\n}"
+    ],
+    [
+        [
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "this in personalized visits to each individual in the treatment group,",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "to 3\u20134 months, 7\u20138 months, 15\u201316 months, and 24\u201325 months after"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "and also told them that half of those completing training would be",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "the training.We refer to these as the round 2, 3, 4 and 5 surveys, respec-"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "randomly chosen for a 15,000 Rs grant.7",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "tively. The follow-up surveys asked detailed information about business"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": NaN,
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "outcomes, including the key performance measures of business profits"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": NaN,
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "in the last month, sales in the last month, and capital stock (including"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "3.2. Take-up of training",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "rawmaterials and inventories). Business profitswere asked directly, fol-"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": NaN,
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "lowing the recommendations of de Mel et al. (2009b). Nominal values"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "Training took place in April and May 2009 and the cash grants",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "were converted into real values using the Colombo consumer price"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "were dispersed in June 2009. There was very little drop-out among",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "index. Appendix 3 addresses the possibility that training affected how"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "those who began the courses, and take-up rates were similar",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "profits were reported; we find that this is not driving any of our results."
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "among the potential and current groups. Overall, 282 of the 400 po-",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "Overall attrition was low\u2014 of the 624 (628) current owners (poten-"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "tential business owners (70.5%) offered training attended at least",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "tial owners) selected for the experiment, 584 (588)were interviewed in"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "one training session, and 261 (65.3%) received completion certifi-",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "the second round, 591 (587) in the third round, 580 (560) in the fourth"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "cates. Of 400 current business owners offered training, 279 (69.8%)",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "round, and 575 (556) in thefifth round surveys.We cannot reject equal-"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "attended at least one session and 268 (67.0%) received completion",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "ity of attrition rates across treatment groups by round 5 for the current"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "certificates.8 Those who attended expressed satisfaction with the",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "enterprises (p = 0.25), but attrition rates are slightly lower for the"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "course in qualitative interviews and direct survey questions: 78%",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "training only group amongst the potential enterprises\u2014 a test of equal-"
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "(81) of current (potential) business owners said they would strongly",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "ity of attrition rates by round 5 has p-value of 0.085 for this group."
+            },
+            {
+                "50 Rs per day) and the opportunity cost of attending. We explained": "recommend the course to others, and 86% said that the course was",
+                "2009, January 2010, September 2010, and June 2011 \u2014 corresponding": "Appendix 2 shows that the results from the sample of potential owners"
+            }
+        ],
+        "Here are the answers to the questions:\n\n{\n    \"Number of treatment control comparisons in table\": 5,\n    \"What is the treatment group label?\": \"training\",\n    \"What is the Comparision group Label?\": \"control\",\n    \"unit of randomization\": \"potential and current business owners\",\n    \"Count the number of outcomes mentioned in the table\": 3,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": {\"key performance measure\", \"sales in the last month\", \"profits were reported\"},\n    \"How many endlines are mentioned in the table ?\": 6,\n    \"Is the treatment Effect pooled across multiple countires?\": true,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": null,\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Colombia\"],\n    \"What is the unit of analysis in the tables ?\": \"business owners\",\n    \"Is there alwats one to one mapping between units of analysis ?\": true,\n    \"What characteristics define the sub groups in the table?\": null,\n    \"Define the type of Heterogenous Treatment Effect\": \"Not Clear (Specify)\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"potential business owners\", \"current business owners\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Total practices score": "Round 2 Round 4",
+                "Unnamed: 1": "Round 5",
+                "Unnamed: 2": "All rounds",
+                "Marketing": "All rounds",
+                "Stock control": "All rounds",
+                "Record keeping": "All rounds",
+                "Financial planning": "All rounds"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Total practices score": "(1) (2)",
+                "Unnamed: 1": "(3)",
+                "Unnamed: 2": "(4)",
+                "Marketing": "(5)",
+                "Stock control": "(6)",
+                "Record keeping": "(7)",
+                "Financial planning": "(8)"
+            },
+            {
+                "Unnamed: 0": "Intent-to-treat effects",
+                "Total practices score": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Marketing": NaN,
+                "Stock control": NaN,
+                "Record keeping": NaN,
+                "Financial planning": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Total practices score": "2.530\u204e\u204e\u204e 1.936\u204e\u204e\u204e",
+                "Unnamed: 1": "2.109\u204e\u204e\u204e",
+                "Unnamed: 2": "2.087\u204e\u204e\u204e",
+                "Marketing": "0.379\u204e\u204e\u204e",
+                "Stock control": "0.230\u204e\u204e\u204e",
+                "Record keeping": "0.872\u204e\u204e\u204e",
+                "Financial planning": "0.628\u204e\u204e\u204e"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Total practices score": "(0.555) (0.567)",
+                "Unnamed: 1": "(0.570)",
+                "Unnamed: 2": "(0.326)",
+                "Marketing": "(0.109)",
+                "Stock control": "(0.0603)",
+                "Record keeping": "(0.154)",
+                "Financial planning": "(0.132)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Total practices score": "1.719\u204e\u204e\u204e 1.708\u204e\u204e\u204e",
+                "Unnamed: 1": "1.075\u204e",
+                "Unnamed: 2": "1.524\u204e\u204e\u204e",
+                "Marketing": "0.433\u204e\u204e\u204e",
+                "Stock control": "0.125\u204e\u204e",
+                "Record keeping": "0.483\u204e\u204e\u204e",
+                "Financial planning": "0.535\u204e\u204e\u204e"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Total practices score": "(0.555) (0.560)",
+                "Unnamed: 1": "(0.568)",
+                "Unnamed: 2": "(0.326)",
+                "Marketing": "(0.113)",
+                "Stock control": "(0.0638)",
+                "Record keeping": "(0.148)",
+                "Financial planning": "(0.140)"
+            },
+            {
+                "Unnamed: 0": "Treatment on the treated",
+                "Total practices score": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Marketing": NaN,
+                "Stock control": NaN,
+                "Record keeping": NaN,
+                "Financial planning": NaN
+            },
+            {
+                "Unnamed: 0": "Received training & cash",
+                "Total practices score": "3.588\u204e\u204e\u204e 2.790\u204e\u204e\u204e",
+                "Unnamed: 1": "3.122\u204e\u204e\u204e",
+                "Unnamed: 2": "3.059\u204e\u204e\u204e",
+                "Marketing": "0.552\u204e\u204e\u204e",
+                "Stock control": "0.338\u204e\u204e\u204e",
+                "Record keeping": "1.281\u204e\u204e\u204e",
+                "Financial planning": "0.917\u204e\u204e\u204e"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Total practices score": "(0.591) (0.607)",
+                "Unnamed: 1": "(0.631)",
+                "Unnamed: 2": "(0.429)",
+                "Marketing": "(0.147)",
+                "Stock control": "(0.0819)",
+                "Record keeping": "(0.204)",
+                "Financial planning": "(0.174)"
+            },
+            {
+                "Unnamed: 0": "Received training only",
+                "Total practices score": "2.192\u204e\u204e\u204e 2.261\u204e\u204e\u204e",
+                "Unnamed: 1": "1.489\u204e\u204e",
+                "Unnamed: 2": "2.031\u204e\u204e\u204e",
+                "Marketing": "0.574\u204e\u204e\u204e",
+                "Stock control": "0.167\u204e\u204e",
+                "Record keeping": "0.645\u204e\u204e\u204e",
+                "Financial planning": "0.711\u204e\u204e\u204e"
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 6,\n    \"What is the treatment group label?\" : \"Assigned to cash if finish training\",\n    \"What is the Comparision group Label?\" : \"Received training only\",\n    \"What is the unit of randomization?\" : \"Administrative(eg. Neighborhood, District: Specify)\",\n    \"Count the number of outcomes mentioned in the table\" : 8,\n    \"For each outcome mentioned in the table, provide a label for the outcome\" : [\"Total practices score\", \"Unnamed: 1\", \"Unnamed: 2\", \"Marketing Stock control Record keeping Financial planning\"],\n    \"How many endlines are mentioned in the table ?\" : 10,\n    \"Is the treatment Effect pooled across multiple countires?\" : \"Yes\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\" : [],\n    \"Name the Pooled Treatment effect Countries (if any)\" : [\"All rounds\", \"Round 2\", \"Round 4\", \"Round 5\"],\n    \"What is the unit of analysis in the tables ?\" : \"Individuals or Households\",\n    \"Is there alwats one to one mapping between units of analysis ?\" : \"No\",\n    \"What characteristics define the sub groups in the table?\" : [\"Intent-to-treat effects\", \"Assigned to cash if finish training\", \"Assigned to training only\", \"Received training & cash\", \"Received training only\"],\n    \"Define the type of Heterogenous Treatment Effect\" : \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\" : 5,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\" : [\"Intent-to-treat effects\", \"Assigned to cash if finish training\", \"Assigned to training only\", \"Received training & cash\", \"Received training only\"],\n    \"For how many Sub Groups is a treatment effect reported ?\" : 5\n}"
+    ],
+    [
+        [
+            {
+                "services. As such, our interventions took part in an environment in": "which the economywas growing and there may have been possibilities",
+                "those who attend no sessions), we can also estimate the treatment-": "on-the-treated (TOT) effect \u2014 the effect of training for those who take"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "for firms to start-up and/or expand.",
+                "those who attend no sessions), we can also estimate the treatment-": "part in at least one session. We estimate the TOT by instrumenting"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": NaN,
+                "those who attend no sessions), we can also estimate the treatment-": "receipt of some training with assignment to training only, and receipt"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "4. What was the impact of the training and grants?",
+                "those who attend no sessions), we can also estimate the treatment-": "of training plus cash with assignment to this treatment."
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "Wewant to estimate the impact of being assigned to training only, or",
+                "those who attend no sessions), we can also estimate the treatment-": "4.1. Impact on the business practices of women who were already in"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "to training plus a cash grant, on business outcome Yi,t for firm i in follow-",
+                "those who attend no sessions), we can also estimate the treatment-": "business"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "up time period t. We estimate the following model using the follow-up",
+                "those who attend no sessions), we can also estimate the treatment-": NaN
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "surveys:",
+                "those who attend no sessions), we can also estimate the treatment-": "In Table 2 we examine whether the training led to any improve-"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": NaN,
+                "those who attend no sessions), we can also estimate the treatment-": "ments in business practices. The first three columns show that manage-"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "Y i;t 1\u20444 \u03b1 \u00fe \u03b31 assignedtrainingonlyi \u00fe \u03b32 assigned training&cashi \u00fe \u03b8Y i;0 \u00fe \u03c0i;s \u00fe \u03b5i;t \u00f0 \u00de 1",
+                "those who attend no sessions), we can also estimate the treatment-": "ment practices improved in both the short-term (3\u20134 months posttraining), and medium-term (15\u201316 months after training and 24\u2013"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": NaN,
+                "those who attend no sessions), we can also estimate the treatment-": "25 months after training). The magnitude of the increase is similar at"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "where Yi,0 is the baseline value of the outcome of interest, and \u03c0i,s is a",
+                "those who attend no sessions), we can also estimate the treatment-": "all follow-up intervals. In the last survey round, and for all rounds"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "dummy for being in randomization strata s.10 This Ancova specification",
+                "those who attend no sessions), we can also estimate the treatment-": "combined, we can reject equality of the training and training plus cash"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "includes the lagged outcome variable to increase power (McKenzie,",
+                "those who attend no sessions), we can also estimate the treatment-": "treatments at the 10% level, with the improvement in practices slightly"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "2012) and is possible only for the current enterprises; the potential",
+                "those who attend no sessions), we can also estimate the treatment-": "higher for those receiving the training plus grant treatment."
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "owners did not have baseline business outcomes to include in Eq. (1).",
+                "those who attend no sessions), we can also estimate the treatment-": "The magnitude of the increase is large relative to the low baseline"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "We estimate Eq. (1) round-by-round to determine how the treatment",
+                "those who attend no sessions), we can also estimate the treatment-": "levels, with the TOT showing an increase of two to three total practices"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "effects vary over time. In addition, we can estimate the average treat-",
+                "those who attend no sessions), we can also estimate the treatment-": "relative to a baseline mean of five practices. However, given that the"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "ment effect over all follow-up rounds by pooling together several",
+                "those who attend no sessions), we can also estimate the treatment-": "maximumpossible practices score is 29, the treated firms are still clearly"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "rounds of follow-up surveys. We estimate the following regression:",
+                "those who attend no sessions), we can also estimate the treatment-": "a long way from implementing all the practices taught in the SIYB"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "Xq",
+                "those who attend no sessions), we can also estimate the treatment-": "training. Columns five through eight pool together the different rounds"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "Y i;t 1\u20444 \u03b4 \u00fe \u03b3 assignedtrainingonly \u00fe \u03b3 assignedtraining&cash t 1 i 2 i",
+                "those who attend no sessions), we can also estimate the treatment-": "and show that the training programs significantly improved each sub-"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "t1\u204441",
+                "those who attend no sessions), we can also estimate the treatment-": "component of the overall business practice score, with improvements"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "\u00fe\u03b8Y i;0 \u00fe \u03c0i;s \u00fe \u03b5i;t",
+                "those who attend no sessions), we can also estimate the treatment-": "in marketing, stock control, financial planning, and record-keeping."
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "\u00f02\u00de",
+                "those who attend no sessions), we can also estimate the treatment-": NaN
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "where q is the number of follow-up surveys, and the \u03b4t are survey round",
+                "those who attend no sessions), we can also estimate the treatment-": "4.2. Impact on the business outcomes of existing business owners"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "dummies. Standard errors are then clustered at the firm level.",
+                "those who attend no sessions), we can also estimate the treatment-": NaN
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "Estimation of Eqs. (1) and (2) gives the intention-to-treat (ITT)",
+                "those who attend no sessions), we can also estimate the treatment-": "Eighty-three percent of the current business owners remain in busi-"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "effect, which is the effect of being assigned to receive training only, or",
+                "those who attend no sessions), we can also estimate the treatment-": "ness by the round5 survey, andwe cannot reject that survival is unrelated"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "being assigned to receive training and cash. Under the assumption",
+                "those who attend no sessions), we can also estimate the treatment-": "to treatment status (p = 0.37). Moreover, the treatments do not appear"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "that the offer of training does not affect the outcomes of interest for",
+                "those who attend no sessions), we can also estimate the treatment-": "to affectwhichfirms survived: treatment status is unrelated to observable"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "those who do not take up the training (which seems plausible for",
+                "those who attend no sessions), we can also estimate the treatment-": "characteristics among surviving firms. Given these findings, we proceed"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": NaN,
+                "those who attend no sessions), we can also estimate the treatment-": "to analyze business outcomes for the group of surviving firms."
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "10 This specification assumes that there are no spillovers (such as competing for the",
+                "those who attend no sessions), we can also estimate the treatment-": "Table 3 examines whether the improvements in business practices"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "same customers) among treated and control groups. 63% of current enterprises have no",
+                "those who attend no sessions), we can also estimate the treatment-": NaN
+            },
+            {
+                "services. As such, our interventions took part in an environment in": NaN,
+                "those who attend no sessions), we can also estimate the treatment-": "following the training, alongwith the cash grants, lead to improvements"
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "other firms in the same sector receiving treatment in their G.N. Controlling for the number",
+                "those who attend no sessions), we can also estimate the treatment-": NaN
+            },
+            {
+                "services. As such, our interventions took part in an environment in": "of firms treated in the same sector within the G.N. does not affect our results, suggesting",
+                "those who attend no sessions), we can also estimate the treatment-": "in business outcomes.We examine the impact of the two treatments on"
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 8,\n    \"What is the treatment group label?\": \"assigned training only\",\n    \"What is the Comparision group Label?\": \"control group\",\n    \"What is the unit of randomization?\": \"Firm\",\n    \"Count the number of outcomes mentioned in the table\": 4,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"business practices\", \"marketing stock control financial planning\", \"business outcomes\", \"profits\"],\n    \"How many endlines are mentioned in the table ?\": 2,\n    \"Is the treatment Effect pooled across multiple countires?\": false,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"all follow-up intervals\"],\n    \"What is the unit of analysis in the tables ?\": \"firm\",\n    \"Is there alwats one to one mapping between units of analysis ?\": true,\n    \"What characteristics define the sub groups in the table?\": \"Gender: women\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"current business owners\", \"existing businesses\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 3\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "(4686)": "\u22122941",
+                "(3500)": "\u22121786",
+                "(0.0932)": "\u22120.0414",
+                "(4020)": "\u22121718",
+                "(5366)": "\u22121519",
+                "(6534)": "\u22123884",
+                "(6482)": "\u22122248"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "(4686)": "(4422)",
+                "(3500)": "(3512)",
+                "(0.0932)": "(0.0967)",
+                "(4020)": "(3845)",
+                "(5366)": "(5386)",
+                "(6534)": "(5993)",
+                "(6482)": "(7177)"
+            },
+            {
+                "Unnamed: 0": "Baseline mean:",
+                "(4686)": "12,659",
+                "(3500)": "12,659",
+                "(0.0932)": "9.09",
+                "(4020)": "12,198",
+                "(5366)": "12,520",
+                "(6534)": "12,600",
+                "(6482)": "12,548"
+            },
+            {
+                "Unnamed: 0": "p-Value for equality of treatment effects",
+                "(4686)": "0.090",
+                "(3500)": "0.102",
+                "(0.0932)": "0.054",
+                "(4020)": "0.065",
+                "(5366)": "0.411",
+                "(6534)": "0.316",
+                "(6482)": "0.514"
+            },
+            {
+                "Unnamed: 0": "nel C: Capital stock",
+                "(4686)": NaN,
+                "(3500)": NaN,
+                "(0.0932)": NaN,
+                "(4020)": NaN,
+                "(5366)": NaN,
+                "(6534)": NaN,
+                "(6482)": NaN
+            },
+            {
+                "Unnamed: 0": "effects",
+                "(4686)": NaN,
+                "(3500)": NaN,
+                "(0.0932)": NaN,
+                "(4020)": NaN,
+                "(5366)": NaN,
+                "(6534)": NaN,
+                "(6482)": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "(4686)": "17,221\u204e\u204e",
+                "(3500)": "10,379\u204e\u204e\u204e",
+                "(0.0932)": "0.155\u204e\u204e",
+                "(4020)": "9535\u204e",
+                "(5366)": "7270",
+                "(6534)": "12,195\u204e",
+                "(6482)": "11,374\u204e\u204e"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "(4686)": "(7815)",
+                "(3500)": "(3583)",
+                "(0.0932)": "(0.0691)",
+                "(4020)": "(4893)",
+                "(5366)": "(4932)",
+                "(6534)": "(6379)",
+                "(6482)": "(5760)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "(4686)": "\u2212700.2",
+                "(3500)": "\u2212490.7",
+                "(0.0932)": "\u22120.0671",
+                "(4020)": "\u22123476",
+                "(5366)": "\u2212278.1",
+                "(6534)": "\u22124452",
+                "(6482)": "3389"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "(4686)": "(5616)",
+                "(3500)": "(3338)",
+                "(0.0932)": "(0.0629)",
+                "(4020)": "(4192)",
+                "(5366)": "(4596)",
+                "(6534)": "(5921)",
+                "(6482)": "(6474)"
+            },
+            {
+                "Unnamed: 0": "Baseline mean:",
+                "(4686)": "31,272",
+                "(3500)": "31,272",
+                "(0.0932)": "9.48",
+                "(4020)": "30,137",
+                "(5366)": "30,359",
+                "(6534)": "30,538",
+                "(6482)": "30,350"
+            },
+            {
+                "Unnamed: 0": "p-Value for equality of treatment effects",
+                "(4686)": "0.017",
+                "(3500)": "0.003",
+                "(0.0932)": "0.001",
+                "(4020)": "0.005",
+                "(5366)": "0.113",
+                "(6534)": "0.009",
+                "(6482)": "0.257"
+            },
+            {
+                "Unnamed: 0": "nel D: Hours worked in last week",
+                "(4686)": NaN,
+                "(3500)": NaN,
+                "(0.0932)": NaN,
+                "(4020)": NaN,
+                "(5366)": NaN,
+                "(6534)": NaN,
+                "(6482)": NaN
+            },
+            {
+                "Unnamed: 0": "effects",
+                "(4686)": NaN,
+                "(3500)": NaN,
+                "(0.0932)": NaN,
+                "(4020)": NaN,
+                "(5366)": NaN,
+                "(6534)": NaN,
+                "(6482)": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "(4686)": "1.932",
+                "(3500)": "1.751",
+                "(0.0932)": "\u22120.0211",
+                "(4020)": "4.537\u204e",
+                "(5366)": "1.855",
+                "(6534)": "1.120",
+                "(6482)": "\u22121.717"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "(4686)": "(1.433)",
+                "(3500)": "(1.382)",
+                "(0.0932)": "(0.0320)",
+                "(4020)": "(2.411)",
+                "(5366)": "(2.504)",
+                "(6534)": "(2.579)",
+                "(6482)": "(2.701)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "(4686)": "1.685",
+                "(3500)": "1.889",
+                "(0.0932)": "\u22120.0130",
+                "(4020)": "3.337",
+                "(5366)": "4.130",
+                "(6534)": "0.561",
+                "(6482)": "\u22122.038"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "(4686)": "(1.436)",
+                "(3500)": "(1.399)",
+                "(0.0932)": "(0.0340)",
+                "(4020)": "(2.534)",
+                "(5366)": "(2.802)",
+                "(6534)": "(2.570)",
+                "(6482)": "(2.687)"
+            }
+        ],
+        "Here are the answers to the questions based on the table:\n\n{\n    \"Number of treatment control comparisons in table\": 2,\n    \"What is the treatment group label?\": \"Assigned to training only\",\n    \"What is the Comparision group Label?\": \"Baseline mean: and Assigned to cash if finish training\",\n    \"What is the unit of randomization?\": \"Administrative(eg. Neighborhood, District\",\n    \"Count the number of outcomes mentioned in the table\": 6,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Income\", \"Assets\", \"Living conditions\", \"Hours worked in last week\", \"Consumption\", \"Behavioral Skills\"],\n    \"How many endlines are mentioned in the table ?\": 3,\n    \"Is the treatment Effect pooled across multiple countires?\": true,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [\"\", \"\"],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"\"],\n    \"What is the unit of analysis in the tables ?\": \"Individuals/Households\",\n    \"Is there always one to one mapping between units of analysis ?\": false,\n    \"What characteristics define the sub groups in the table?\": [\"Full Sample\"],\n    \"Define the type of Heterogenous Treatment Effect\": \"Not Clear (Specify)\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 1,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Assigned to training only\", \"Baseline mean: and Assigned to cash if finish training\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 3\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": NaN,
+                "Unnamed: 1": "Truncated",
+                "Unnamed: 2": NaN,
+                "Round 2": "Truncated",
+                "Round 3": "Truncated",
+                "Round 4": "Truncated",
+                "Round 5": "Truncated"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "Levels",
+                "Unnamed: 1": "Levels",
+                "Unnamed: 2": "Logs",
+                "Round 2": "Levels",
+                "Round 3": "Levels",
+                "Round 4": "Levels",
+                "Round 5": "Levels"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "(1)",
+                "Unnamed: 1": "(2)",
+                "Unnamed: 2": "(3)",
+                "Round 2": "(4)",
+                "Round 3": "(5)",
+                "Round 4": "(6)",
+                "Round 5": "(7)"
+            },
+            {
+                "Unnamed: 0": "Panel A: Monthly profits",
+                "All rounds pooled": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Round 2": NaN,
+                "Round 3": NaN,
+                "Round 4": NaN,
+                "Round 5": NaN
+            },
+            {
+                "Unnamed: 0": "ITT effects",
+                "All rounds pooled": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Round 2": NaN,
+                "Round 3": NaN,
+                "Round 4": NaN,
+                "Round 5": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "All rounds pooled": "724.9",
+                "Unnamed: 1": "1207\u204e\u204e",
+                "Unnamed: 2": "0.168\u204e\u204e",
+                "Round 2": "1758\u204e",
+                "Round 3": "1910\u204e\u204e",
+                "Round 4": "432.5",
+                "Round 5": "169.9"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "(839.9)",
+                "Unnamed: 1": "(593.0)",
+                "Unnamed: 2": "(0.0716)",
+                "Round 2": "(932.6)",
+                "Round 3": "(898.5)",
+                "Round 4": "(1123)",
+                "Round 5": "(1099)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "All rounds pooled": "\u2212695.7",
+                "Unnamed: 1": "\u2212171.3",
+                "Unnamed: 2": "0.0240",
+                "Round 2": "11.75",
+                "Round 3": "\u221276.47",
+                "Round 4": "\u2212460.3",
+                "Round 5": "\u2212760.6"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "(920.7)",
+                "Unnamed: 1": "(626.2)",
+                "Unnamed: 2": "(0.0752)",
+                "Round 2": "(889.5)",
+                "Round 3": "(912.4)",
+                "Round 4": "(1148)",
+                "Round 5": "(1241)"
+            },
+            {
+                "Unnamed: 0": "TOT effects",
+                "All rounds pooled": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Round 2": NaN,
+                "Round 3": NaN,
+                "Round 4": NaN,
+                "Round 5": NaN
+            },
+            {
+                "Unnamed: 0": "Received training & cash",
+                "All rounds pooled": "1079",
+                "Unnamed: 1": "1786\u204e\u204e",
+                "Unnamed: 2": "0.248\u204e\u204e",
+                "Round 2": "2526\u204e\u204e",
+                "Round 3": "2819\u204e\u204e\u204e",
+                "Round 4": "642.0",
+                "Round 5": "249.6"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "(1169)",
+                "Unnamed: 1": "(827.5)",
+                "Unnamed: 2": "(0.100)",
+                "Round 2": "(1032)",
+                "Round 3": "(1023)",
+                "Round 4": "(1233)",
+                "Round 5": "(1220)"
+            },
+            {
+                "Unnamed: 0": "Received training only",
+                "All rounds pooled": "\u2212912.9",
+                "Unnamed: 1": "\u2212217.3",
+                "Unnamed: 2": "0.0333",
+                "Round 2": "6.206",
+                "Round 3": "\u221286.50",
+                "Round 4": "\u2212605.9",
+                "Round 5": "\u22121042"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "All rounds pooled": "(1152)",
+                "Unnamed: 1": "(782.4)",
+                "Unnamed: 2": "(0.0949)",
+                "Round 2": "(882.4)",
+                "Round 3": "(924.0)",
+                "Round 4": "(1141)",
+                "Round 5": "(1276)"
+            }
+        ],
+        "Here are the answers to the questions:\n\n{\n  \"Number of treatment control comparisons in table\": 6,\n  \"What is the treatment group label?\": \"Assigned to cash if finish training\",\n  \"What is the Comparision group Label?\": \"Assigned to training only\",\n  \"unit of randomization\": \"Administrative(eg. Neighborhood, District)\",\n  \"Count the number of outcomes mentioned in the table\": 5,\n  \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Monthly profits\", \"ITT effects\", \"Received training & cash\", \"Received training only\", \"TOT effects\"],\n  \"How many endlines are mentioned in the table ?\": 2,\n  \"Is the treatment Effect pooled across multiple countires?\": \"Yes\",\n  \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n  \"Name the Pooled Treatment effect Countries (if any)\": [\"Pooled data not explicitly stated\"],\n  \"What is the unit of analysis in the tables ?\": \"Individuals/Firms assigned to training and cash vs those assigned to training only\",\n  \"Is there alwats one to one mapping between units of analysis?\": \"No\",\n  \"What characteristics define the sub groups in the table?\" : [\"Administrative(eg. Neighborhood, District)\"],\n  \"Define the type of Heterogenous Treatment Effect\": \"Split Sample\",\n  \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n  \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Assigned to cash if finish training\", \"Assigned to training only\"],\n  \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "Round 2 Round 3",
+                "Unnamed: 1": "Round 4",
+                "Unnamed: 2": "Round 5",
+                "Ever own a business": "Round 5",
+                "Closed business": "Round 5",
+                "Currently a wage worker": "Round 2 Round 3",
+                "Unnamed: 3": "Round 4",
+                "Unnamed: 4": "Round 5"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(1) (2)",
+                "Unnamed: 1": "(3)",
+                "Unnamed: 2": "(4)",
+                "Ever own a business": "(5)",
+                "Closed business": "(6)",
+                "Currently a wage worker": "(7) (8)",
+                "Unnamed: 3": "(9)",
+                "Unnamed: 4": "(10)"
+            },
+            {
+                "Unnamed: 0": "ITT",
+                "Currently own a business": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Ever own a business": NaN,
+                "Closed business": NaN,
+                "Currently a wage worker": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Currently own a business": "0.201\u204e\u204e\u204e 0.140\u204e\u204e\u204e",
+                "Unnamed: 1": "0.0261",
+                "Unnamed: 2": "0.0244",
+                "Ever own a business": "0.0708",
+                "Closed business": "0.0634\u204e",
+                "Currently a wage worker": "\u22120.0309 \u22120.0587\u204e\u204e",
+                "Unnamed: 3": "\u22120.00920",
+                "Unnamed: 4": "\u22120.000515"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0465) (0.0483)",
+                "Unnamed: 1": "(0.0501)",
+                "Unnamed: 2": "(0.0485)",
+                "Ever own a business": "(0.0436)",
+                "Closed business": "(0.0383)",
+                "Currently a wage worker": "(0.0282) (0.0281)",
+                "Unnamed: 3": "(0.0325)",
+                "Unnamed: 4": "(0.0317)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Currently own a business": "0.0904\u204e 0.0628",
+                "Unnamed: 1": "0.0364",
+                "Unnamed: 2": "\u22120.0217",
+                "Ever own a business": "0.0123",
+                "Closed business": "0.0166",
+                "Currently a wage worker": "\u22120.0252 \u22120.0753\u204e\u204e\u204e",
+                "Unnamed: 3": "\u22120.0210",
+                "Unnamed: 4": "\u22120.0180"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0466) (0.0490)",
+                "Unnamed: 1": "(0.0499)",
+                "Unnamed: 2": "(0.0488)",
+                "Ever own a business": "(0.0446)",
+                "Closed business": "(0.0365)",
+                "Currently a wage worker": "(0.0286) (0.0275)",
+                "Unnamed: 3": "(0.0327)",
+                "Unnamed: 4": "(0.0311)"
+            },
+            {
+                "Unnamed: 0": "TOT",
+                "Currently own a business": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Ever own a business": NaN,
+                "Closed business": NaN,
+                "Currently a wage worker": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN
+            },
+            {
+                "Unnamed: 0": "Received training & cash",
+                "Currently own a business": "0.290\u204e\u204e\u204e 0.203\u204e\u204e\u204e",
+                "Unnamed: 1": "0.0384",
+                "Unnamed: 2": "0.0360",
+                "Ever own a business": "0.104\u204e",
+                "Closed business": "0.0935\u204e",
+                "Currently a wage worker": "\u22120.0449 \u22120.0862\u204e\u204e",
+                "Unnamed: 3": "\u22120.0138",
+                "Unnamed: 4": "\u22120.000779"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0628) (0.0658)",
+                "Unnamed: 1": "(0.0704)",
+                "Unnamed: 2": "(0.0689)",
+                "Ever own a business": "(0.0614)",
+                "Closed business": "(0.0548)",
+                "Currently a wage worker": "(0.0392) (0.0394)",
+                "Unnamed: 3": "(0.0465)",
+                "Unnamed: 4": "(0.0450)"
+            },
+            {
+                "Unnamed: 0": "Received training only",
+                "Currently own a business": "0.122\u204e\u204e 0.0848",
+                "Unnamed: 1": "0.0495",
+                "Unnamed: 2": "\u22120.0298",
+                "Ever own a business": "0.0161",
+                "Closed business": "0.0219",
+                "Currently a wage worker": "\u22120.0338 \u22120.102\u204e\u204e\u204e",
+                "Unnamed: 3": "\u22120.0286",
+                "Unnamed: 4": "\u22120.0244"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0606) (0.0638)",
+                "Unnamed: 1": "(0.0652)",
+                "Unnamed: 2": "(0.0643)",
+                "Ever own a business": "(0.0584)",
+                "Closed business": "(0.0478)",
+                "Currently a wage worker": "(0.0370) (0.0357)",
+                "Unnamed: 3": "(0.0428)",
+                "Unnamed: 4": "(0.0406)"
+            }
+        ],
+        "Here are the answers to the questions based on information from the table:\n\n{\n    \"Number of treatment control comparisons in table\": 6,\n    \"What is the treatment group label?\": \"Assigned to cash if finish training\",\n    \"What is the Comparision group Label?\": \"TOT\",\n    \"What is the unit of randomization?\": \"Administrative(eg. Neighborhood, District: Specify)\",\n    \"Count the number of outcomes mentioned in the table\": 9,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Currently own a business\", \"Unemployed\", \"Currently a wage worker\", \"Round 4\", \"Round 5\"],\n    \"How many endlines are mentioned in the table ?\": 12,\n    \"Is the treatment Effect pooled across multiple countires?\": \"yes\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [\"USA, Canada, Mexico\"],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Multiple countries\"],\n    \"What is the unit of analysis in the tables ?\": \"Individuals/Households\",\n    \"Is there alwats one to one mapping between units of analysis ?\": \"no\",\n    \"What characteristics define the sub groups in the table?\": \"Full Sample, Gender, Age, Income, Education\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 5,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Assigned to cash if finish training\", \"TOT\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "Outcomes conditional on operating a business": "Total work income Profits",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": "Sales",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": "Capital stock",
+                "Unnamed: 5": NaN,
+                "Unnamed: 6": "Business practices"
+            },
+            {
+                "Outcomes conditional on operating a business": "R2 and R3 R4 and R5 R2 and R3",
+                "Unnamed: 0": "R4 and R5",
+                "Unnamed: 1": "R2 and R3",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "R4 and R5",
+                "Unnamed: 4": "R2 and R3",
+                "Unnamed: 5": "R4 and R5",
+                "Unnamed: 6": "R4 and R5"
+            },
+            {
+                "Outcomes conditional on operating a business": "Panel A: Experimental ITT estimates",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN,
+                "Unnamed: 5": NaN,
+                "Unnamed: 6": NaN
+            },
+            {
+                "Outcomes conditional on operating a business": "Assigned to cash if finish training 266.7 696.7 \u2212161.0",
+                "Unnamed: 0": "804.7",
+                "Unnamed: 1": "165.5",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "6043",
+                "Unnamed: 4": "7179",
+                "Unnamed: 5": "4215",
+                "Unnamed: 6": "0.999\u204e\u204e"
+            },
+            {
+                "Outcomes conditional on operating a business": "(556.5) (728.5) (741.7)",
+                "Unnamed: 0": "(830.2)",
+                "Unnamed: 1": "(3059)",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "(3841)",
+                "Unnamed: 4": "(7324)",
+                "Unnamed: 5": "(7892)",
+                "Unnamed: 6": "(0.489)"
+            },
+            {
+                "Outcomes conditional on operating a business": "Assigned to training only 211.5 1494\u204e 484.9",
+                "Unnamed: 0": "2244\u204e\u204e",
+                "Unnamed: 1": "397.5",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "6248\u204e",
+                "Unnamed: 4": "\u22122293",
+                "Unnamed: 5": "\u2212261",
+                "Unnamed: 6": "0.870"
+            },
+            {
+                "Outcomes conditional on operating a business": "(545.4) (773.9) (785.3)",
+                "Unnamed: 0": "(975.9)",
+                "Unnamed: 1": "(2989)",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "(3638)",
+                "Unnamed: 4": "(6885)",
+                "Unnamed: 5": "(7821)",
+                "Unnamed: 6": "(0.559)"
+            },
+            {
+                "Outcomes conditional on operating a business": "Observations 1175 1119 615",
+                "Unnamed: 0": "675",
+                "Unnamed: 1": "616",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "675",
+                "Unnamed: 4": "615",
+                "Unnamed: 5": "718",
+                "Unnamed: 6": "676"
+            },
+            {
+                "Outcomes conditional on operating a business": "Firms 601 585 359",
+                "Unnamed: 0": "393",
+                "Unnamed: 1": "359",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "393",
+                "Unnamed: 4": "357",
+                "Unnamed: 5": "385",
+                "Unnamed: 6": "394"
+            },
+            {
+                "Outcomes conditional on operating a business": "p-Value for testing treatment equality 0.920 0.327 0.398",
+                "Unnamed: 0": "0.165",
+                "Unnamed: 1": "0.939",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "0.961",
+                "Unnamed: 4": "0.218",
+                "Unnamed: 5": "0.566",
+                "Unnamed: 6": "0.82"
+            },
+            {
+                "Outcomes conditional on operating a business": "Control group mean 3516 4940 5001",
+                "Unnamed: 0": "5209",
+                "Unnamed: 1": "14,739",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "15,292",
+                "Unnamed: 4": "25,489",
+                "Unnamed: 5": "34,033",
+                "Unnamed: 6": "8.33"
+            },
+            {
+                "Outcomes conditional on operating a business": "Panel B: Generalized propensity score reweighted estimates to account for selection into who operates a business",
+                "Unnamed: 0": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": NaN,
+                "Unnamed: 4": NaN,
+                "Unnamed: 5": NaN,
+                "Unnamed: 6": NaN
+            },
+            {
+                "Outcomes conditional on operating a business": "Assigned to cash if finish training 59.12",
+                "Unnamed: 0": "767.2",
+                "Unnamed: 1": "512.5",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "5840",
+                "Unnamed: 4": "6820",
+                "Unnamed: 5": "6316",
+                "Unnamed: 6": "1.173\u204e\u204e"
+            },
+            {
+                "Outcomes conditional on operating a business": "(692.6)",
+                "Unnamed: 0": "(846.0)",
+                "Unnamed: 1": "(3060)",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "(3698)",
+                "Unnamed: 4": "(7467)",
+                "Unnamed: 5": "(8.735)",
+                "Unnamed: 6": "(0.502)"
+            },
+            {
+                "Outcomes conditional on operating a business": "Assigned to training only 374.3",
+                "Unnamed: 0": "2171\u204e\u204e",
+                "Unnamed: 1": "\u2212349.7",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "5950",
+                "Unnamed: 4": "\u22121664",
+                "Unnamed: 5": "2298",
+                "Unnamed: 6": "0.971\u204e"
+            },
+            {
+                "Outcomes conditional on operating a business": "(772.0)",
+                "Unnamed: 0": "(1072)",
+                "Unnamed: 1": "(2979)",
+                "Unnamed: 2": NaN,
+                "Unnamed: 3": "(3749)",
+                "Unnamed: 4": "(7336)",
+                "Unnamed: 5": "(7975)",
+                "Unnamed: 6": "(0.567)"
+            }
+        ],
+        "Here are the answers to the questions based on the information from the table:\n\n{\n    \"Number of treatment control comparisons in table\": 15,\n    \"What is the treatment group label?\": \"Assigned to cash if finish training\",\n    \"What is the Comparision group Label?\": \"Assigned to training only\",\n    \"What is the unit of randomization?\": \"Firm\",\n    \"Count the number of outcomes mentioned in the table\": 7,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Total work income\", \"Profits\", \"Sales\", \"Capital stock\", \"Business practices\", \"p-Value for testing treatment equality\", \"Control group mean\"],\n    \"How many endlines are mentioned in the table ?\": 1,\n    \"Is the treatment Effect pooled across multiple countires?\": \"No\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [],\n    \"What is the unit of analysis in the tables ?\": \"Firm\",\n    \"Is there alwats one to one mapping between units of analysis ?\": \"Yes\",\n    \"What characteristics define the sub groups in the table?\": [\"Business practices\"],\n    \"Define the type of Heterogenous Treatment Effect\": \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Assigned to cash if finish training\", \"Assigned to training only\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "the cash plus training treatment. The results for the training only",
+                "of business training for women who are out of the labor force. We find": "that training helps these women to start enterprises more quickly, and"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "intervention show significant impacts on profits and sales in the rounds",
+                "of business training for women who are out of the labor force. We find": "to improve the management and profitability of the businesses they"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "4 and 5 surveys, with the magnitudes equivalent to a 43% increase in",
+                "of business training for women who are out of the labor force. We find": "start. The improvement in profitability comes in spite of the fact that"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "profits and a 40% increase in sales, both relative to the control mean.",
+                "of business training for women who are out of the labor force. We find": "training appears to induce more entry by women with lower measured"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "There is no difference in the rates of business ownership by rounds 4",
+                "of business training for women who are out of the labor force. We find": "cognitive skills, and more exit by women with higher cognitive skills."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "and 5 of the survey, but both treatments led to women with lower",
+                "of business training for women who are out of the labor force. We find": "The impact on business start-ups is consistent with results from recent"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "Raven score starting businesses and the cash plus training treatment",
+                "of business training for women who are out of the labor force. We find": "randomized experiments with microfinance (Attanasio et al., 2011;"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "led to women with lower wealth starting businesses (see Appendix 4",
+                "of business training for women who are out of the labor force. We find": "Banerjee et al., 2011) which find that giving microfinance to poor"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "for details). We would expect this selection to bias the OLS estimates",
+                "of business training for women who are out of the labor force. We find": "women with a high propensity for business ownership leads to some"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "downwards, since lower ability and poorer individuals might be",
+                "of business training for women who are out of the labor force. We find": "new business start-ups, and with short-term results from Martinez et al."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "expected to earn lower profits. In this sense, the estimates in panel A",
+                "of business training for women who are out of the labor force. We find": "(2013). Taken together, these results suggest gettingwomen to start sub-"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "might be considered lower bounds for the treatment effect.",
+                "of business training for women who are out of the labor force. We find": "sistence businesses is easier than getting these businesses to grow."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "How sensitive are our results to this selection? To provide some",
+                "of business training for women who are out of the labor force. We find": "A final point is that our study highlights the importance of tracing"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "indication, we use the sample of business owners to estimate a multino-",
+                "of business training for women who are out of the labor force. We find": "out the trajectory of impacts and not just relying on a single follow-up"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "mial logit for the probability of being in each of our three treatment",
+                "of business training for women who are out of the labor force. We find": "survey. The impacts of business training vary over the time frame in"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "groups. We predict these probabilities as a function of wealth, ability,",
+                "of business training for women who are out of the labor force. We find": "which they are measured, particularly for potential enterprise owners."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "risk attitudes, interest in attending training, interest in running abusiness,",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "and personal characteristics \u2014 age, marital status and education. We use",
+                "of business training for women who are out of the labor force. We find": "Appendix 1. Business practices score"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "the predicted probabilities to form a generalized propensity score",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "(Imbens, 2000), and re-run our treatment regressions, reweighting by",
+                "of business training for women who are out of the labor force. We find": "The total score \u2013 the composite business practice score \u2013 ranges from"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "the inverse of this generalized propensity score (GPS) and restricting",
+                "of business training for women who are out of the labor force. We find": "a minimum of \u22121 to a maximum of 29. The total is the sum of the fol-"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "the sample so that the GPS has a common range across the three treat-",
+                "of business training for women who are out of the labor force. We find": "lowing component scores: the marketing score, the stock score, the re-"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "ments.14 Since the initial sample was randomized and the selection",
+                "of business training for women who are out of the labor force. We find": "cords score, and the financial planning score."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "was not extreme, trimming dissimilar observations removes only a few",
+                "of business training for women who are out of the labor force. We find": "Themarketing score ranges from 0 to 7, and it is calculated by adding"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "observations.",
+                "of business training for women who are out of the labor force. We find": "one point for each of the following that the business has done in the last"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "Panel B of Table 5 shows that the resulting estimates are reasonably",
+                "of business training for women who are out of the labor force. We find": "3 months:"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "similar to those in panel A, suggesting that the selection on observed",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 Visited at least one of its competitor's businesses to see what prices"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "ability and wealth is not driving the estimates. We still find that the",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "its competitors are charging"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "training-only intervention has a significant impact on monthly profits,",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 Visited at least one of its competitor's businesses to see what"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "that both treatments have relatively large but insignificant impacts on",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "products its competitors have available for sale"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "sales, and that both treatments result in better business practices.",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 Asked existing customers whether there are any other products"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "the customers would like the business to sell or produce"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "5. Discussion and conclusions",
+                "of business training for women who are out of the labor force. We find": "\u2013 Talked with at least one former customer to find out why former"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "customers have stopped buying from this business"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "Existing business training experiments have typically found rather",
+                "of business training for women who are out of the labor force. We find": "\u2013 Asked a supplier about which products are selling well in this"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "limited impacts of business training on female microfinance clients",
+                "of business training for women who are out of the labor force. We find": "business' industry"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "who already own businesses. The stylized finding is that women com-",
+                "of business training for women who are out of the labor force. We find": "\u2013 Attracted customers with a special offer"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "pleting training undertake a few more of the business practices taught,",
+                "of business training for women who are out of the labor force. We find": "\u2013 Advertised in any form (last 6 months)."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "but the training does not have measurable impacts on business profit-",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "ability or employment levels. One response to this has been that these",
+                "of business training for women who are out of the labor force. We find": "The stock score ranges from \u22121 to 2, and it is calculated by"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "existing studies have been unable to detect impacts because they",
+                "of business training for women who are out of the labor force. We find": "subtracting one point."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "work with a selected subset of microfinance clients and have low statis-",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 If the business runs out of stock once a month or more."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "tical power.We conduct an experiment on a sample of womenwhich is",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "both broadly representative of low-income female microenterprise",
+                "of business training for women who are out of the labor force. We find": "And adding one point for each of the following that the business has"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "owners and more homogeneous than other studies. The homogeneity",
+                "of business training for women who are out of the labor force. We find": "done in the last 3 months"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "of the sample yields considerably more statistical power than other ex-",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 Attempted to negotiate with a supplier for a lower price on raw"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "periments. We conclude that training alone is not enough to generate",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "material"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "growth in subsistence businesses run by women. Adding capital leads",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "\u2013 Compared the prices or quality offered by alternate suppliers"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "to a boost in profitability in the first year following training, but the",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "or sources of raw materials to the business' current suppliers or"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "effect is temporary; these enterprises are no more profitable than",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": NaN,
+                "of business training for women who are out of the labor force. We find": "sources of raw material."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "the control group two years after training. These results highlight the",
+                "of business training for women who are out of the labor force. We find": NaN
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "challenge in generating growth in subsistence-level female-owned",
+                "of business training for women who are out of the labor force. We find": "The records score ranges from 0 to 8, and it is calculated by adding"
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "microenterprises, and suggest that the binding constraints on growth",
+                "of business training for women who are out of the labor force. We find": "one point for each of the following that the business does."
+            },
+            {
+                "ments, and the point estimate of the effect on capital stock is larger for": "may lie outside the realm of capital and skills. One option ismore inten-",
+                "of business training for women who are out of the labor force. We find": NaN
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 65,\n    \"What is the treatment group label?\": \"cash plus training treatment\",\n    \"What is the Comparision group Label?\": \"control group\",\n    \"Count the number of outcomes mentioned in the table\": 9,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"profits\", \"sales\", \"entry\", \"exit\", \"management and profitability\", \"capital stock\", \"raw material sources\"],\n    \"How many endlines are mentioned in the table ?\": 0,\n    \"Is the treatment Effect pooled across multiple countires?\": \"yes\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"multiple countries\"],\n    \"What is the unit of analysis in the tables ?\": \"businesses/firms\",\n    \"Is there alwats one to one mapping between units of analysis?\": \"yes\",\n    \"What characteristics define the sub groups in the table?\",: [\"gender\"],\n    \"Define the type of Heterogenous Treatment Effect\": \"Split Sample\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"women who are out of the labor force\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 1\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Round 2": "Lower",
+                "Unnamed: 1": "Upper",
+                "Round 3": "Lower",
+                "Unnamed: 2": "Upper",
+                "Round 4": "Lower",
+                "Unnamed: 3": "Upper",
+                "Round 5": "Lower",
+                "Unnamed: 4": "Upper"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Round 2": "Bound",
+                "Unnamed: 1": "Bound",
+                "Round 3": "Bound",
+                "Unnamed: 2": "Bound",
+                "Round 4": "Bound",
+                "Unnamed: 3": "Bound",
+                "Round 5": "Bound",
+                "Unnamed: 4": "Bound"
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Round 2": "0.157***",
+                "Unnamed: 1": "0.244***",
+                "Round 3": "0.0953**",
+                "Unnamed: 2": "0.192***",
+                "Round 4": "\u22120.0419",
+                "Unnamed: 3": "0.111**",
+                "Round 5": "\u22120.00521",
+                "Unnamed: 4": "0.0586"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Round 2": "(0.0455)",
+                "Unnamed: 1": "(0.0456)",
+                "Round 3": "(0.0469)",
+                "Unnamed: 2": "(0.0472)",
+                "Round 4": "(0.0477)",
+                "Unnamed: 3": "(0.0483)",
+                "Round 5": "(0.0475)",
+                "Unnamed: 4": "(0.0478)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Round 2": "0.0540",
+                "Unnamed: 1": "0.119***",
+                "Round 3": "0.0163",
+                "Unnamed: 2": "0.106**",
+                "Round 4": "\u22120.0408",
+                "Unnamed: 3": "0.108**",
+                "Round 5": "\u22120.0495",
+                "Unnamed: 4": "0.00799"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Round 2": "(0.0461)",
+                "Unnamed: 1": "(0.0457)",
+                "Round 3": "(0.0480)",
+                "Unnamed: 2": "(0.0478)",
+                "Round 4": "(0.0482)",
+                "Unnamed: 3": "(0.0477)",
+                "Round 5": "(0.0481)",
+                "Unnamed: 4": "(0.0481)"
+            },
+            {
+                "Unnamed: 0": "Individuals",
+                "Round 2": "628",
+                "Unnamed: 1": "628",
+                "Round 3": "628",
+                "Unnamed: 2": "628",
+                "Round 4": "628",
+                "Unnamed: 3": "628",
+                "Round 5": "628",
+                "Unnamed: 4": "628"
+            }
+        ],
+        "Here are the answers to the questions based on the table:\n\n{\n    \"Number of treatment control comparisons in table\": 5,\n    \"What is the treatment group label?\": \"Assigned to cash if finish training\",\n    \"What is the Comparision group Label?\": \"Assigned to training only\",\n    \"unit of randomization\": \"Individuals\",\n    \"Count the number of outcomes mentioned in the table\": 4,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": [\"Lower Bound\", \"Upper Bound\", \"Lower Bound\", \"Upper Bound\"],\n    \"How many endlines are mentioned in the table ?\": 5,\n    \"Is the treatment Effect pooled across multiple countires?\": true,\n    \"Name the Non Pooled Treatment effect Countries (if any)\": None,\n    \"Name the Pooled Treatment effect Countries (if any)\": None,\n    \"What is the unit of analysis in the tables ?\": \"Individuals\",\n    \"Is there alwats one to one mapping between units of analysis ?\": true,\n    \"What characteristics define the sub groups in the table?\": \"None mentioned\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Not Clear (Specify)\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": None,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": [\"Assigned to cash if finish training\", \"Assigned to training only\"],\n    \"For how many Sub Groups is a treatment effect reported ?\": 2\n}"
+    ],
+    [
+        [
+            {
+                "terms of whether individuals have ever started a business and have": "closed a business by round 5. Neither interaction between treatment",
+                "ability treated women are no more likely to be wage workers, but are": "more likely to be out of the labor force. This is particularly true among"
+            },
+            {
+                "terms of whether individuals have ever started a business and have": "and ability is statistically significant whenwe look at the two treatment",
+                "ability treated women are no more likely to be wage workers, but are": "those eligible for both training and cash. Panel B of the table shows no"
+            },
+            {
+                "terms of whether individuals have ever started a business and have": "effects separately, but we do find an effect on business closure which is",
+                "ability treated women are no more likely to be wage workers, but are": "significant heterogeneity with respect to our other measure of ability,"
+            },
+            {
+                "terms of whether individuals have ever started a business and have": "significant at the 10% level if we pool the two treatments (p = 0.085).",
+                "ability treated women are no more likely to be wage workers, but are": "the digitspan recall. The correlation between Raven score and digitspan"
+            },
+            {
+                "terms of whether individuals have ever started a business and have": "The results suggest that skilled women are no less likely to have ever",
+                "ability treated women are no more likely to be wage workers, but are": "in this sample is only 0.18. The Raven score is a measure of analytical"
+            },
+            {
+                "terms of whether individuals have ever started a business and have": "started a business if they are trained, but are more likely to have closed",
+                "ability treated women are no more likely to be wage workers, but are": "reasoning, whereas the digitspan recall is a measure more closely"
+            }
+        ],
+        "{\n    \"Number of treatment control comparisons in table\": 5,\n    \"What is the treatment group label?\": \"trained\",\n    \"What is the Comparision group Label?\": \"not trained\",\n    \"unit of randomization)\": \"Individual\",\n    \"Count the number of outcomes mentioned in the table\": 3,\n    \"For each outcome mentioned in the table, provide a label for the outcome\": {\n        \"outcome1\": \"wage workers\",\n        \"outcome2\": \"out of the labor force\",\n        \"outcome3\": \"business\"\n    },\n    \"How many endlines are mentioned in the table ?\": 0,\n    \"Is the treatment Effect pooled across multiple countires?\": \"no\",\n    \"Name the Non Pooled Treatment effect Countries (if any)\": [],\n    \"Name the Pooled Treatment effect Countries (if any)\": [\"Country1\", \"Country2\", \"Country3\"],\n    \"What is the unit of analysis in the tables ?\": \"Individual\",\n    \"Is there alwats one to one mapping between units of analysis ?\": \"yes\",\n    \"What characteristics define the sub groups in the table?\": \"Gender\",\n    \"Define the type of Heterogenous Treatment Effect\": \"Interaction Term\",\n    \"How many Sub Groups is the full sample split into based on heterogenous Treatment effect?\": 2,\n    \"For which groups is a treatment effect reported? Consider the subgroups in the table\": \"trained vs not trained\",\n    \"For how many Sub Groups is a treatment effect reported ?\": 1\n}"
+    ],
+    [
+        [
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "Round 2 Round 3",
+                "Unnamed: 1": "Round 4",
+                "Unnamed: 2": "Round 5",
+                "Ever own": "Round 5",
+                "Closed business": "Round 5",
+                "Wage work": "Round 5",
+                "Not working": "Round 5"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(1) (2)",
+                "Unnamed: 1": "(3)",
+                "Unnamed: 2": "(4)",
+                "Ever own": "(5)",
+                "Closed business": "(6)",
+                "Wage work": "(7)",
+                "Not working": "(8)"
+            },
+            {
+                "Unnamed: 0": "Panel A: Interaction with Raven score",
+                "Currently own a business": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Ever own": NaN,
+                "Closed business": NaN,
+                "Wage work": NaN,
+                "Not working": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Currently own a business": "0.232*** 0.149*",
+                "Unnamed: 1": "0.0956",
+                "Unnamed: 2": "0.161*",
+                "Ever own": "0.0846",
+                "Closed business": "\u22120.0224",
+                "Wage work": "0.0406",
+                "Not working": "\u22120.195**"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0840) (0.0892)",
+                "Unnamed: 1": "(0.0916)",
+                "Unnamed: 2": "(0.0869)",
+                "Ever own": "(0.0769)",
+                "Closed business": "(0.0711)",
+                "Wage work": "(0.0550)",
+                "Not working": "(0.0822)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Currently own a business": "0.0640 0.0163",
+                "Unnamed: 1": "0.0450",
+                "Unnamed: 2": "0.101",
+                "Ever own": "0.0320",
+                "Closed business": "\u22120.0503",
+                "Wage work": "\u22120.0645",
+                "Not working": "\u22120.0187"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0835) (0.0857)",
+                "Unnamed: 1": "(0.0894)",
+                "Unnamed: 2": "(0.0860)",
+                "Ever own": "(0.0799)",
+                "Closed business": "(0.0633)",
+                "Wage work": "(0.0550)",
+                "Not working": "(0.0841)"
+            },
+            {
+                "Unnamed: 0": "Assigned to cash \u2217 Raven score",
+                "Currently own a business": "\u22120.0111 \u22120.00344",
+                "Unnamed: 1": "\u22120.0246",
+                "Unnamed: 2": "\u22120.0492*",
+                "Ever own": "\u22120.00500",
+                "Closed business": "0.0308",
+                "Wage work": "\u22120.0147",
+                "Not working": "0.0586**"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0254) (0.0274)",
+                "Unnamed: 1": "(0.0269)",
+                "Unnamed: 2": "(0.0253)",
+                "Ever own": "(0.0221)",
+                "Closed business": "(0.0211)",
+                "Wage work": "(0.0144)",
+                "Not working": "(0.0242)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training \u2217 Raven score",
+                "Currently own a business": "0.0105 0.0188",
+                "Unnamed: 1": "\u22120.00248",
+                "Unnamed: 2": "\u22120.0451*",
+                "Ever own": "\u22120.00708",
+                "Closed business": "0.0246",
+                "Wage work": "0.0180",
+                "Not working": "0.0209"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0261) (0.0271)",
+                "Unnamed: 1": "(0.0267)",
+                "Unnamed: 2": "(0.0255)",
+                "Ever own": "(0.0241)",
+                "Closed business": "(0.0178)",
+                "Wage work": "(0.0176)",
+                "Not working": "(0.0240)"
+            },
+            {
+                "Unnamed: 0": "Panel B: Interaction with digitspan recall",
+                "Currently own a business": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Ever own": NaN,
+                "Closed business": NaN,
+                "Wage work": NaN,
+                "Not working": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Currently own a business": "0.220 0.0472",
+                "Unnamed: 1": "\u22120.147",
+                "Unnamed: 2": "\u22120.141",
+                "Ever own": "\u22120.117",
+                "Closed business": "0.0699",
+                "Wage work": "0.0640",
+                "Not working": "0.0762"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.229) (0.234)",
+                "Unnamed: 1": "(0.244)",
+                "Unnamed: 2": "(0.232)",
+                "Ever own": "(0.218)",
+                "Closed business": "(0.185)",
+                "Wage work": "(0.147)",
+                "Not working": "(0.222)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Currently own a business": "0.189 0.244",
+                "Unnamed: 1": "0.163",
+                "Unnamed: 2": "0.168",
+                "Ever own": "0.0560",
+                "Closed business": "\u22120.115",
+                "Wage work": "\u22120.105",
+                "Not working": "\u22120.0766"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.224) (0.240)",
+                "Unnamed: 1": "(0.249)",
+                "Unnamed: 2": "(0.238)",
+                "Ever own": "(0.222)",
+                "Closed business": "(0.199)",
+                "Wage work": "(0.137)",
+                "Not working": "(0.237)"
+            },
+            {
+                "Unnamed: 0": "Assigned to cash \u2217 digitspan recall",
+                "Currently own a business": "\u22120.00315 0.0153",
+                "Unnamed: 1": "0.0283",
+                "Unnamed: 2": "0.0273",
+                "Ever own": "0.0310",
+                "Closed business": "\u22120.00106",
+                "Wage work": "\u22120.0107",
+                "Not working": "\u22120.0178"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0371) (0.0379)",
+                "Unnamed: 1": "(0.0393)",
+                "Unnamed: 2": "(0.0375)",
+                "Ever own": "(0.0353)",
+                "Closed business": "(0.0297)",
+                "Wage work": "(0.0234)",
+                "Not working": "(0.0360)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training \u2217 digitspan recall",
+                "Currently own a business": "\u22120.0167 \u22120.0304",
+                "Unnamed: 1": "\u22120.0212",
+                "Unnamed: 2": "\u22120.0316",
+                "Ever own": "\u22120.00728",
+                "Closed business": "0.0221",
+                "Wage work": "0.0144",
+                "Not working": "0.0197"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0365) (0.0395)",
+                "Unnamed: 1": "(0.0408)",
+                "Unnamed: 2": "(0.0390)",
+                "Ever own": "(0.0364)",
+                "Closed business": "(0.0327)",
+                "Wage work": "(0.0222)",
+                "Not working": "(0.0389)"
+            },
+            {
+                "Unnamed: 0": "Panel C: Interaction with household wealth index",
+                "Currently own a business": NaN,
+                "Unnamed: 1": NaN,
+                "Unnamed: 2": NaN,
+                "Ever own": NaN,
+                "Closed business": NaN,
+                "Wage work": NaN,
+                "Not working": NaN
+            },
+            {
+                "Unnamed: 0": "Assigned to cash if finish training",
+                "Currently own a business": "0.198*** 0.137***",
+                "Unnamed: 1": "0.0198",
+                "Unnamed: 2": "0.0177",
+                "Ever own": "0.0696",
+                "Closed business": "0.0684*",
+                "Wage work": "\u22124.25e\u221206",
+                "Not working": "\u22120.0249"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0468) (0.0487)",
+                "Unnamed: 1": "(0.0500)",
+                "Unnamed: 2": "(0.0484)",
+                "Ever own": "(0.0438)",
+                "Closed business": "(0.0386)",
+                "Wage work": "(0.0314)",
+                "Not working": "(0.0454)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training only",
+                "Currently own a business": "0.0855* 0.0652",
+                "Unnamed: 1": "0.0344",
+                "Unnamed: 2": "\u22120.0226",
+                "Ever own": "0.0121",
+                "Closed business": "0.0174",
+                "Wage work": "\u22120.0187",
+                "Not working": "0.0423"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0466) (0.0492)",
+                "Unnamed: 1": "(0.0500)",
+                "Unnamed: 2": "(0.0492)",
+                "Ever own": "(0.0447)",
+                "Closed business": "(0.0368)",
+                "Wage work": "(0.0305)",
+                "Not working": "(0.0473)"
+            },
+            {
+                "Unnamed: 0": "Assigned to cash \u2217 household wealth",
+                "Currently own a business": "\u22120.0369 \u22120.0276",
+                "Unnamed: 1": "\u22120.0594**",
+                "Unnamed: 2": "\u22120.0540*",
+                "Ever own": "\u22120.0144",
+                "Closed business": "0.0356",
+                "Wage work": "0.0185",
+                "Not working": "0.0385"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0293) (0.0295)",
+                "Unnamed: 1": "(0.0289)",
+                "Unnamed: 2": "(0.0282)",
+                "Ever own": "(0.0254)",
+                "Closed business": "(0.0227)",
+                "Wage work": "(0.0184)",
+                "Not working": "(0.0259)"
+            },
+            {
+                "Unnamed: 0": "Assigned to training \u2217 household wealth",
+                "Currently own a business": "\u22120.0515* 0.00990",
+                "Unnamed: 1": "\u22120.0290",
+                "Unnamed: 2": "\u22120.0142",
+                "Ever own": "\u22120.00663",
+                "Closed business": "0.00817",
+                "Wage work": "0.00815",
+                "Not working": "0.00904"
+            },
+            {
+                "Unnamed: 0": NaN,
+                "Currently own a business": "(0.0302) (0.0309)",
+                "Unnamed: 1": "(0.0299)",
+                "Unnamed: 2": "(0.0298)",
+                "Ever own": "(0.0258)",
+                "Closed business": "(0.0222)",
+                "Wage work": "(0.0179)",
+                "Not working": "(0.0283)"
+            },
+            {
+                "Unnamed: 0": "Number of firms",
+                "Currently own a business": "607 601",
+                "Unnamed: 1": "582",
+                "Unnamed: 2": "609",
+                "Ever own": "620",
+                "Closed business": "609",
+                "Wage work": "606",
+                "Not working": "606"
+            }
+        ],
+        "I'll do my best to answer each question based on the information from the table.\n\n1. **Number of treatment control comparisons in table**: There are 8 columns, and it appears that each column represents a separate comparison (e.g., \"Assigned to training\" vs. \"Not assigned to training\"). Therefore, there are 7 treatment-control comparisons in this table (since the first column is labeled as \"Panel A: Assignment to training\").\n\n2. **What is the treatment group label?**: The treatment group appears to be those who were \"Assigned to training\".\n\n3. **What is the Comparison group Label?**: The comparison group appears to be those who were not assigned to training (labelled as \"Not assigned to training\" or simply \"NaN\").\n\n4. **What is the unit of randomization?**:\n\t* Option: Individual, Firm\n\t* Answer: Firm\n\n5. **Count the number of outcomes mentioned in the table**: I count 8 outcomes mentioned in the table.\n\n6. **For each outcome mentioned in the table, provide a label for the outcome**: Here are some labels that can be assigned to each outcome:\n\n\t* Outcome 1: \"training \u2217 digitspan recall\"\n\t* Outcome 2: \"cash if finish training\"\n\t* Outcome 3: \"training only\"\n\t* Outcome 4: \"cash\"\n\t* Outcome 5: \"household wealth index\"\n\t* Outcome 6: \"number of firms\"\n\n7. **How many endlines are mentioned in the table?**: There is only one endline (\"...\") mentioned in the table.\n\n8. **Is the treatment Effect pooled across multiple countries?**:\n\t* Answer: Yes\n\n9. **Name the Non Pooled Treatment effect Countries (if any)**: Not specified in the table.\n\n10. **Name the Pooled Treatment effect Countries (if any)**: Not specified in the table, but it's likely that all countries are pooled together based on question 8.\n\n11. **What is the unit of analysis in the tables?**:\n\t* Answer: Firm\n\n12. **Is there always one to one mapping between units of analysis?**:\n\t* Answer: Yes\n\n13. **What characteristics define the sub groups in the table?**:\n\t* Option: Full Sample, Gender, Age, Income, Education, Unemployment, Consumption, Profit, Wealth/Assets/capital, Sales/revenues, Cognitive Skills, Behavioral Skills\n\t* Answer: Assignment to training (i.e., whether a firm was assigned to training or not)\n\n14. **Define the type of Heterogenous Treatment Effect**:\n\t* Option: Interaction Term, Split Sample, Quantile Regression\n\t* Answer: Interaction Term\n\n15. **How many Sub Groups is the full sample split into based on heterogenous Treatment effect?**: The full sample appears to be split into two subgroups: those assigned to training and those not assigned.\n\n16. **For which groups is a treatment effect reported? Consider the subgroups in the table**:\n\t* Answer: A treatment effect is reported for both the subgroup assigned to training and the subgroup not assigned to training, as well as various combinations of these groups (e.g., \"Assigned to training \u2217 household wealth\").\n\n17. **For how many Sub Groups is a treatment effect reported?**:\n\t* Answer: 5 subgroups are mentioned in the table where a treatment effect is reported: (1) Assigned to training; (2) Not assigned to training; and three interaction terms (\"cash if finish training\", \"training only\", and \"household wealth index\")."
+    ]
+]

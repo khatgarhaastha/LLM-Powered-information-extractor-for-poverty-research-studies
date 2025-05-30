@@ -1,0 +1,30 @@
+[
+    {
+        "QuestionNumber" : 1,
+        "QuestionText": "What is the paper about ?", 
+        "Entities": ["summary"], 
+
+        "ExpectedOutput": {"summary": "<Summary of what the paper is discussing>"}
+    },
+    {
+        "QuestionNumber" : 2,
+        "QuestionText": "How many interventions are being discussed in this program?",
+        "Entities": ["NumInterventions"],
+        "ExpectedOutput": {"NumInterventions": "<Number of interventions being discussed in the paper>"}
+    },
+
+    {
+        "Question_Text": "Describe the Interventions being discussed in the paper.",
+        "Entities": ["intervention_details"],
+        "ExpectedOutput": 
+            {
+                "intervention_details": 
+                    [
+                        {
+                            "intervention_name": "<Name of the intervention>",
+                            "intervention_description": "<Description of the intervention>"
+                        }
+                    ]
+            }
+    }
+]
